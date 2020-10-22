@@ -3,3 +3,13 @@
     02. Custom Toast
     03. Custom Toast with Toasy(https://github.com/GrenderG/Toasty)
     04. Snack Bar( Material Design: https://material.io/develop/android/docs/getting-started)
+    
+    # Dependency
+    
+    // Toasty 
+     implementation 'com.github.GrenderG:Toasty:1.5.0'
+
+    // material design
+
+    def version= "1.2.0-alpha06"
+    implementation "com.google.android.material:material:$version"
