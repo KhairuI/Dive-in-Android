@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:orientation="vertical"
+    android:gravity="center"
+    android:id="@+id/linearLayout"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+
+  <Button
+      android:text="Sample Toast"
+      android:id="@+id/sampleToastId"
+      android:layout_width="wrap_content"
+      android:layout_height="wrap_content">
+
+  </Button>
+
+    <Button
+        android:text="Custom Toast"
+        android:id="@+id/customToastId"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content">
+
+    </Button>
+
+  <Button
+      android:text="Error Toast"
+      android:id="@+id/errorToastId"
+      android:layout_width="wrap_content"
+      android:layout_height="wrap_content">
+
+  </Button>
+
+  <Button
+      android:text="Success Toast"
+      android:id="@+id/successToastId"
+      android:layout_width="wrap_content"
+      android:layout_height="wrap_content">
+
+  </Button>
+
+  <Button
+      android:text="Info Toast"
+      android:id="@+id/infoToastId"
+      android:layout_width="wrap_content"
+      android:layout_height="wrap_content">
+
+  </Button>
+
+  <Button
+      android:text="Snack Bar"
+      android:id="@+id/snackBarId"
+      android:layout_width="wrap_content"
+      android:layout_height="wrap_content">
+
+  </Button>
+
+
+</LinearLayout>
