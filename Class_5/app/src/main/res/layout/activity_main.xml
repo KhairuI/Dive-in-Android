@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:orientation="vertical"
+    android:gravity="center"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+
+    <Button
+        android:text="Pick Image"
+        android:id="@+id/pickImageButtonId"
+        android:layout_width="200dp"
+        android:layout_height="wrap_content">
+
+    </Button>
+
+    <ImageView
+        android:id="@+id/imageViewId"
+        android:layout_marginTop="5dp"
+        android:layout_width="230dp"
+        android:layout_height="230dp">
+
+    </ImageView>
+
+    <Button
+        android:text="Show List"
+        android:id="@+id/listButtonId"
+        android:layout_marginTop="10dp"
+        android:layout_width="200dp"
+        android:layout_height="wrap_content">
+
+    </Button>
+
+</LinearLayout>

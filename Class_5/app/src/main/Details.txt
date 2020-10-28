@@ -1,0 +1,6 @@
+Using Component
+
+    1. Camera Intent
+    2. Gallery Intent
+    3. Alert Dialogue
+    4. List View
