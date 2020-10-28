@@ -1,0 +1,6 @@
+
+Using Components: 
+
+
+Using Dependency:
+  api 'com.theartofdev.edmodo:android-image-cropper:2.8.+'
