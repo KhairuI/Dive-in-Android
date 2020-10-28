@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Class Three</string>
+
+    <string-array name="country">
+
+        <item>Bangladesh</item>
+        <item>India</item>
+        <item>Sri Lanka</item>
+        <item>Nepal</item>
+        <item>Bangladesh</item>
+        <item>India</item>
+        <item>Sri Lanka</item>
+        <item>Nepal</item>
+
+
+    </string-array>
+</resources>
