@@ -9,9 +9,12 @@ Dept. of CSE, 10th Semester, DIU
 Musfick Jamil
 Dept. of CSE, 10th Semester, DIU 
 
-# Separate Class Code
+# Separate Class Code in Details
 01. Class One: https://github.com/KhairuI/ClassOne
 02. Class two: https://github.com/KhairuI/Class-Two
+03. Class Three: https://github.com/KhairuI/Class-Three
+04. Class Four: https://github.com/KhairuI/Class-Four
+05. Class Five: https://github.com/KhairuI/Class-Five
 
 # Reference Projects
 01. MVVM CRUD & Search with Firestore in Java: https://github.com/KhairuI/MVVM_CRUD_Search_with_Firestore
