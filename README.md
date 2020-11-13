@@ -16,6 +16,8 @@ Dept. of CSE, 10th Semester, DIU
 04. Class Four: https://github.com/KhairuI/Class-Four (Pick Image from Galary, by camera, drive etc by third party library)
 05. Class Five: https://github.com/KhairuI/Class-Five (Camera & Galary Intent,Alert Dialogue,List View)
 06. Class Six: https://github.com/KhairuI/Class-Six-Recycle-View- (RecycleView,Intent Phone,Call,Email)
+07. Project One: https://github.com/KhairuI/Project-One
+08. Project Two: https://github.com/KhairuI/Project-Two
 
 # Reference Projects
 01. MVVM CRUD & Search with Firestore in Java: https://github.com/KhairuI/MVVM_CRUD_Search_with_Firestore
