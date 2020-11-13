@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Class Six</string>
+
+    <string-array name="player">
+
+        <item>Messi</item>
+        <item>Shakib</item>
+        <item>Neymar</item>
+        <item>Mushfique</item>
+        <item>Tamim</item>
+        <item>Bill Gates</item>
+        <item>Mark Jukarbarg</item>
+        <item>Jamal Bhuyan</item>
+        <item>Siddikur Rahman</item>
+        <item>Virat Koli</item>
+
+
+    </string-array>
+</resources>

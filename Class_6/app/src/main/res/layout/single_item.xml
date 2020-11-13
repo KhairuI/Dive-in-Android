@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_margin="4dp"
+    android:orientation="horizontal"
+    android:background="#DAEDED"
+    android:layout_height="wrap_content">
+
+    <de.hdodenhof.circleimageview.CircleImageView
+        android:src="@drawable/messi"
+        android:padding="2dp"
+        android:id="@+id/singleImageId"
+        android:layout_width="75dp"
+        android:layout_height="75dp">
+
+    </de.hdodenhof.circleimageview.CircleImageView>
+
+    <TextView
+        android:text="Name"
+        android:textSize="22sp"
+        android:id="@+id/singleNameId"
+        android:textColor="@android:color/black"
+        android:layout_marginLeft="10dp"
+        android:layout_marginTop="20sp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content">
+
+    </TextView>
+
+
+</LinearLayout>
