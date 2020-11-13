@@ -15,6 +15,7 @@ Dept. of CSE, 10th Semester, DIU
 03. Class Three: https://github.com/KhairuI/Class-Three
 04. Class Four: https://github.com/KhairuI/Class-Four
 05. Class Five: https://github.com/KhairuI/Class-Five
+06. Class Six: https://github.com/KhairuI/Class-Six-Recycle-View- (RecycleView,Intent Phone,Call,Email)
 
 # Reference Projects
 01. MVVM CRUD & Search with Firestore in Java: https://github.com/KhairuI/MVVM_CRUD_Search_with_Firestore
