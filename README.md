@@ -10,11 +10,11 @@ Musfick Jamil
 Dept. of CSE, 10th Semester, DIU 
 
 # Separate Class Code in Details
-01. Class One: https://github.com/KhairuI/ClassOne
-02. Class two: https://github.com/KhairuI/Class-Two
-03. Class Three: https://github.com/KhairuI/Class-Three
-04. Class Four: https://github.com/KhairuI/Class-Four
-05. Class Five: https://github.com/KhairuI/Class-Five
+01. Class One: https://github.com/KhairuI/ClassOne (Text View, Button, Edit Text, Image View)
+02. Class two: https://github.com/KhairuI/Class-Two (Toast, Custom Toast, Snackbar)
+03. Class Three: https://github.com/KhairuI/Class-Three (Intent,Spinner, Data & Time Picker)
+04. Class Four: https://github.com/KhairuI/Class-Four (Pick Image from Galary, by camera, drive etc by third party library)
+05. Class Five: https://github.com/KhairuI/Class-Five (Camera & Galary Intent,Alert Dialogue,List View)
 06. Class Six: https://github.com/KhairuI/Class-Six-Recycle-View- (RecycleView,Intent Phone,Call,Email)
 
 # Reference Projects
