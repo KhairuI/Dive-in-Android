@@ -1,0 +1,83 @@
+<resources>
+    <string name="app_name">Project One</string>
+
+    <string-array name="player">
+
+        <item>Messi</item>
+        <item>Shakib</item>
+        <item>Neymar</item>
+        <item>Mushfique</item>
+        <item>Tamim</item>
+
+    </string-array>
+
+    <string-array name="player_type">
+
+        <item>Football</item>
+        <item>Cricket</item>
+        <item>Football</item>
+        <item>Cricket</item>
+        <item>Cricket</item>
+
+    </string-array>
+
+    <string name="Messi">
+
+        Lionel Andrés Messi is an Argentine professional footballer who plays as a forward and
+        captains both La Liga club Barcelona and the Argentina national team.
+        Lionel Andrés Messi is an Argentine professional footballer who plays as a forward and
+        captains both La Liga club Barcelona and the Argentina national team.
+        Lionel Andrés Messi is an Argentine professional footballer who plays as a forward and
+        captains both La Liga club Barcelona and the Argentina national team.
+         Lionel Andrés Messi is an Argentine professional footballer who plays as a forward and
+        captains both La Liga club Barcelona and the Argentina national team.
+        Lionel Andrés Messi is an Argentine professional footballer who plays as a forward and
+        captains both La Liga club Barcelona and the Argentina national team.
+        Lionel Andrés Messi is an Argentine professional footballer who plays as a forward and
+        captains both La Liga club Barcelona and the Argentina national team.
+         Lionel Andrés Messi is an Argentine professional footballer who plays as a forward and
+        captains both La Liga club Barcelona and the Argentina national team.
+        Lionel Andrés Messi is an Argentine professional footballer who plays as a forward and
+        captains both La Liga club Barcelona and the Argentina national team.
+        Lionel Andrés Messi is an Argentine professional footballer who plays as a forward and
+        captains both La Liga club Barcelona and the Argentina national team.
+         Lionel Andrés Messi is an Argentine professional footballer who plays as a forward and
+        captains both La Liga club Barcelona and the Argentina national team.
+        Lionel Andrés Messi is an Argentine professional footballer who plays as a forward and
+        captains both La Liga club Barcelona and the Argentina national team.
+        Lionel Andrés Messi is an Argentine professional footballer who plays as a forward and
+        captains both La Liga club Barcelona and the Argentina national team.
+    </string>
+
+    <string name="Shakib">
+       Shakib Al Hasan is a Bangladeshi international cricketer who was consistently ICCs no.1 all rounder in all three formats of the game for a decade.
+        He was ranked as the 2nd most valuable player of the century according to Wisden Cricketers Almanack.
+         Shakib Al Hasan is a Bangladeshi international cricketer who was consistently ICCs no.1 all rounder in all three formats of the game for a decade.
+        He was ranked as the 2nd most valuable player of the century according to Wisden Cricketers Almanack.
+    </string>
+
+    <string name="Neymar">
+        Lionel Andrés Messi is an Argentine professional footballer who plays as a forward and
+        captains both La Liga club Barcelona and the Argentina national team.
+        Lionel Andrés Messi is an Argentine professional footballer who plays as a forward and
+        captains both La Liga club Barcelona and the Argentina national team.
+        Lionel Andrés Messi is an Argentine professional footballer who plays as a forward and
+        captains both La Liga club Barcelona and the Argentina national team.
+    </string>
+
+    <string name="Mushfique">
+       Mushfique is a Bangladeshi international cricketer who was consistently ICCs no.1 all rounder in all three formats of the game for a decade.
+        He was ranked as the 2nd most valuable player of the century according to Wisden Cricketers Almanack.
+         Shakib Al Hasan is a Bangladeshi international cricketer who was consistently ICCs no.1 all rounder in all three formats of the game for a decade.
+        He was ranked as the 2nd most valuable player of the century according to Wisden Cricketers Almanack.
+    </string>
+
+    <string name="Tamim">
+       Tamim is a Bangladeshi international cricketer who was consistently ICCs no.1 all rounder in all three formats of the game for a decade.
+        He was ranked as the 2nd most valuable player of the century according to Wisden Cricketers Almanack.
+         Shakib Al Hasan is a Bangladeshi international cricketer who was consistently ICCs no.1 all rounder in all three formats of the game for a decade.
+        He was ranked as the 2nd most valuable player of the century according to Wisden Cricketers Almanack.
+    </string>
+
+
+</resources>
