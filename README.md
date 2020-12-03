@@ -9,6 +9,9 @@ Dept. of CSE, 10th Semester, DIU
 Musfick Jamil
 Dept. of CSE, 10th Semester, DIU 
 
+# Class Lecture Videos:
+https://www.youtube.com/playlist?list=PLx1n1QRaNSmXw8WoqXh9r7MHn3V498w0r
+
 # Separate Class Code in Details
 01. Class One: https://github.com/KhairuI/ClassOne (Text View, Button, Edit Text, Image View)
 02. Class two: https://github.com/KhairuI/Class-Two (Toast, Custom Toast, Snackbar)
@@ -18,6 +21,7 @@ Dept. of CSE, 10th Semester, DIU
 06. Class Six: https://github.com/KhairuI/Class-Six-Recycle-View- (RecycleView,Intent Phone,Call,Email)
 07. Project One: https://github.com/KhairuI/Project-One
 08. Project Two: https://github.com/KhairuI/Project-Two
+09. ClassSQLite: https://github.com/KhairuI/SQLite (Insert, Read, Search, Delete, Update)
 
 # Reference Projects
 01. MVVM CRUD & Search with Firestore in Java: https://github.com/KhairuI/MVVM_CRUD_Search_with_Firestore
