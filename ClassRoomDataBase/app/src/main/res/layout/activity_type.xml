@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:orientation="vertical"
+    android:layout_height="match_parent"
+    tools:context=".TypeActivity">
+
+    <include layout="@layout/toolbar"
+        android:id="@+id/typeToolbarId"></include>
+
+    <LinearLayout
+        android:gravity="center"
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+
+        <LinearLayout
+            android:layout_margin="20dp"
+            android:gravity="center_horizontal"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+            <androidx.cardview.widget.CardView
+                android:id="@+id/cricketCardId"
+                android:layout_width="150dp"
+                android:layout_marginRight="5dp"
+                android:layout_height="150dp">
+
+                <LinearLayout
+                    android:orientation="vertical"
+                    android:gravity="center_horizontal"
+                    android:layout_marginTop="20dp"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent">
+
+                    <ImageView
+                        android:src="@drawable/cricket"
+                        android:layout_width="80dp"
+                        android:layout_height="80dp">
+
+                    </ImageView>
+
+                    <View
+                        android:layout_width="match_parent"
+                        android:layout_marginTop="3dp"
+                        android:background="@color/colorPrimary"
+                        android:layout_height="1dp">
+
+                    </View>
+
+                    <TextView
+                        android:text="Cricket"
+                        android:textSize="18sp"
+                        android:textColor="@android:color/black"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content">
+
+                    </TextView>
+
+                </LinearLayout>
+
+
+            </androidx.cardview.widget.CardView>
+
+            <androidx.cardview.widget.CardView
+                android:id="@+id/footballCardId"
+                android:layout_width="150dp"
+                android:layout_marginLeft="5dp"
+                android:layout_height="150dp">
+
+                <LinearLayout
+                    android:orientation="vertical"
+                    android:gravity="center_horizontal"
+                    android:layout_marginTop="20dp"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent">
+
+                    <ImageView
+                        android:src="@drawable/football"
+                        android:layout_width="80dp"
+                        android:layout_height="80dp">
+
+                    </ImageView>
+
+                    <View
+                        android:layout_width="match_parent"
+                        android:layout_marginTop="3dp"
+                        android:background="@color/colorPrimary"
+                        android:layout_height="1dp">
+
+                    </View>
+
+                    <TextView
+                        android:text="Football"
+                        android:textSize="18sp"
+                        android:textColor="@android:color/black"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content">
+
+                    </TextView>
+
+                </LinearLayout>
+
+
+            </androidx.cardview.widget.CardView>
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_margin="20dp"
+            android:gravity="center_horizontal"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+            <androidx.cardview.widget.CardView
+                android:id="@+id/tennisCardId"
+                android:layout_width="150dp"
+                android:layout_marginRight="5dp"
+                android:layout_height="150dp">
+
+                <LinearLayout
+                    android:orientation="vertical"
+                    android:gravity="center_horizontal"
+                    android:layout_marginTop="20dp"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent">
+
+                    <ImageView
+                        android:src="@drawable/tennis"
+                        android:layout_width="80dp"
+                        android:layout_height="80dp">
+
+                    </ImageView>
+
+                    <View
+                        android:layout_width="match_parent"
+                        android:layout_marginTop="3dp"
+                        android:background="@color/colorPrimary"
+                        android:layout_height="1dp">
+
+                    </View>
+
+                    <TextView
+                        android:text="Tennis"
+                        android:textSize="18sp"
+                        android:textColor="@android:color/black"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content">
+
+                    </TextView>
+
+                </LinearLayout>
+
+
+            </androidx.cardview.widget.CardView>
+
+            <androidx.cardview.widget.CardView
+                android:id="@+id/golfCardId"
+                android:layout_width="150dp"
+                android:layout_marginLeft="5dp"
+                android:layout_height="150dp">
+
+                <LinearLayout
+                    android:orientation="vertical"
+                    android:gravity="center_horizontal"
+                    android:layout_marginTop="20dp"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent">
+
+                    <ImageView
+                        android:src="@drawable/golf"
+                        android:layout_width="80dp"
+                        android:layout_height="80dp">
+
+                    </ImageView>
+
+                    <View
+                        android:layout_width="match_parent"
+                        android:layout_marginTop="3dp"
+                        android:background="@color/colorPrimary"
+                        android:layout_height="1dp">
+
+                    </View>
+
+                    <TextView
+                        android:text="Golf"
+                        android:textSize="18sp"
+                        android:textColor="@android:color/black"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content">
+
+                    </TextView>
+
+                </LinearLayout>
+
+
+            </androidx.cardview.widget.CardView>
+
+        </LinearLayout>
+
+
+
+
+
+
+
+    </LinearLayout>
+
+
+
+</LinearLayout>

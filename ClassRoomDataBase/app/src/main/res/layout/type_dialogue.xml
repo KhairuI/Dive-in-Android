@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:padding="20dp"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+
+
+    <RadioGroup
+        android:id="@+id/radioGroupId"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <RadioButton
+            android:text="Cricket"
+            android:id="@+id/cricketId"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content">
+
+        </RadioButton>
+
+        <RadioButton
+            android:text="Football"
+            android:id="@+id/footballId"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content">
+
+        </RadioButton>
+
+        <RadioButton
+            android:text="Tennis"
+            android:id="@+id/tennisId"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content">
+
+        </RadioButton>
+
+        <RadioButton
+            android:text="Golf"
+            android:id="@+id/golfId"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content">
+
+        </RadioButton>
+
+    </RadioGroup>
+
+
+</LinearLayout>

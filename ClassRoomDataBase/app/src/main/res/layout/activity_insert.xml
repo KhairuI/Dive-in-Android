@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:orientation="vertical"
+    android:layout_height="match_parent"
+    tools:context=".InsertActivity">
+
+    <include layout="@layout/toolbar"
+        android:id="@+id/insertToolbarId"></include>
+
+    <LinearLayout
+        android:gravity="center"
+        android:orientation="vertical"
+        android:padding="15dp"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <TextView
+            android:text="Insert Data"
+            android:textSize="25sp"
+            android:textColor="@android:color/black"
+            android:layout_marginBottom="5dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content">
+
+        </TextView>
+
+        <com.google.android.material.textfield.TextInputLayout
+            android:layout_marginTop="10dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+            <EditText
+                android:id="@+id/insertCodeId"
+                android:hint="Enter Code"
+                android:inputType="numberDecimal"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content">
+
+            </EditText>
+        </com.google.android.material.textfield.TextInputLayout>
+
+        <com.google.android.material.textfield.TextInputLayout
+            android:layout_marginTop="10dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+            <EditText
+                android:id="@+id/insertNameId"
+                android:hint="Enter Name"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content">
+
+            </EditText>
+        </com.google.android.material.textfield.TextInputLayout>
+
+        <LinearLayout
+            android:layout_marginTop="10dp"
+            android:orientation="horizontal"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+            <Button
+
+                android:textColor="@android:color/white"
+                android:background="@drawable/button_design"
+                android:id="@+id/pickButtonId"
+                android:backgroundTint="@color/colorPrimary"
+                android:text="Pick"
+                android:layout_width="120dp"
+                android:layout_height="wrap_content">
+
+            </Button>
+
+            <TextView
+                android:id="@+id/playerTypeTextId"
+                android:layout_marginLeft="8dp"
+                android:text="Player Type"
+                android:textSize="20sp"
+                android:textColor="@android:color/black"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content">
+
+            </TextView>
+
+        </LinearLayout>
+
+
+        <Button
+            android:text="Save"
+            android:background="@drawable/button_design"
+            android:textColor="@android:color/white"
+            android:backgroundTint="@color/colorPrimary"
+            android:id="@+id/saveButtonId"
+            android:layout_marginTop="10dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+        </Button>
+        <Button
+            android:id="@+id/listButtonId"
+            android:background="@drawable/button_design"
+            android:textColor="@android:color/white"
+            android:backgroundTint="@color/colorPrimary"
+            android:text="View List"
+            android:layout_marginTop="10dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+        </Button>
+
+
+
+
+
+
+
+    </LinearLayout>
+
+
+</LinearLayout>
