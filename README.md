@@ -22,6 +22,8 @@ https://www.youtube.com/playlist?list=PLx1n1QRaNSmXw8WoqXh9r7MHn3V498w0r
 07. Project One: https://github.com/KhairuI/Project-One
 08. Project Two: https://github.com/KhairuI/Project-Two
 09. ClassSQLite: https://github.com/KhairuI/SQLite (Insert, Read, Search, Delete, Update)
+10. Class Shared Preferences: https://github.com/KhairuI/SharedPreferences-Database (Shared Preferences Database And Right Use of Splash Screen.) 
+11. Class Room Database: https://github.com/KhairuI/Class-Room-Database (Insert, Read, Multiple Item Select, Search)
 
 # Reference Projects
 01. MVVM CRUD & Search with Firestore in Java: https://github.com/KhairuI/MVVM_CRUD_Search_with_Firestore
