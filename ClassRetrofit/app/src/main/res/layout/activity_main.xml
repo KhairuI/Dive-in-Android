@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:orientation="vertical"
+    android:padding="15sp"
+    android:gravity="center"
+    android:layout_height="match_parent"
+    tools:context=".view.MainActivity">
+
+    <Button
+        android:text="Get Post"
+        android:id="@+id/getPostButtonId"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+    </Button>
+    <Button
+        android:text="Get Comment"
+        android:id="@+id/getCommentButtonId"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+    </Button>
+
+    <Button
+        android:text="Post Web"
+        android:id="@+id/postButtonId"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+    </Button>
+    <Button
+        android:text="Put and Patch"
+        android:id="@+id/putButtonId"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+    </Button>
+
+
+</LinearLayout>
