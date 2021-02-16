@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/home2Fragment"
+        android:icon="@drawable/ic_home"
+        android:title="Home"></item>
+
+    <item
+        android:title="Insert"
+        android:id="@+id/insertFragment"
+        android:icon="@drawable/ic_add"></item>
+
+    <item
+        android:title="List"
+        android:id="@+id/listFragment"
+        android:icon="@drawable/ic_list"></item>
+</menu>
