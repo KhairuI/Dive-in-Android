@@ -27,6 +27,10 @@ https://www.youtube.com/playlist?list=PLx1n1QRaNSmXw8WoqXh9r7MHn3V498w0r
 12. Differents types of layouts: https://github.com/KhairuI/Different-Types-of-Layouts (Linear Layout, Relative Layout, Coordinate Layout, AutoComplete TextView, Collapsing Toolbar) 
 13. Activity LifeCycle: https://github.com/KhairuI/Activity-LifeCycle (Activity Life Cycle, Web View, Expendable Recycle View)
 14. Differents types of Fragments: https://github.com/KhairuI/Fragments-BottomNavigation-NavigationDrawer (Fragments, Bottom Navigation with Navigation Components, Navigation Drawer)
+15. Firebase Realtime Database: https://github.com/KhairuI/Class_Firebase_Realtime_Database_Android ( Email, password SignIn. Google SignIn, Insert, Read, Delete, Search)
+16. Firebase Firestore: https://github.com/KhairuI/Class_Firebase_Firestore (Insert, Read, Different Types of Quary) 
+17. Retrofit: https://github.com/KhairuI/Class_Retrofit (Get, Post, Put, Patch, Delete) 
+18. MVVM Architecture: https://github.com/KhairuI/Class_MVVM_Architecture ( View Model, Live Data)
 
 # Reference Projects
 01. MVVM CRUD & Search with Firestore in Java: https://github.com/KhairuI/MVVM_CRUD_Search_with_Firestore
