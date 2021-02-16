@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Layouts</string>
+
+    <string-array name="country">
+
+        <item>Bangladesh</item>
+        <item>India</item>
+        <item>Bhutan</item>
+        <item>Sri lanka</item>
+        <item>Bangladesh</item>
+        <item>India</item>
+        <item>Bhutan</item>
+        <item>Sri lanka</item>
+        <item>Ghana</item>
+        <item>Brazil</item>
+        <item>America</item>
+        <item>Ghana</item>
+        <item>Brazil</item>
+        <item>America</item>
+        <item>Finland</item>
+        <item>New Zeland</item>
+
+    </string-array>
+
+    <string name="sample_text">There are many variations of passages of Lorem Ipsum available,
+        but the majority have suffered alteration in some form, by injected humour, or randomised words which
+        do not look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure
+        there isnt anything embarrassing hidden in the middle of text. All the Lorem Ipsum generators on the Int
+        ernet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet. It us
+        es a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable.
+        The generated Lorem Ipsum is therefore always free from repetition, injected humour, or non-characteristic words etc.</string>
+</resources>
