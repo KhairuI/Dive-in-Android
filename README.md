@@ -32,6 +32,8 @@ https://www.youtube.com/playlist?list=PLx1n1QRaNSmXw8WoqXh9r7MHn3V498w0r
 17. Retrofit: https://github.com/KhairuI/Class_Retrofit (Get, Post, Put, Patch, Delete) 
 18. MVVM Architecture: https://github.com/KhairuI/Class_MVVM_Architecture ( View Model, Live Data)
 
+## Kotlin Android Course: https://github.com/KhairuI/Bite-in-Android-with-Kotlin
+
 # Reference Projects
 01. MVVM CRUD & Search with Firestore in Java: https://github.com/KhairuI/MVVM_CRUD_Search_with_Firestore
 02. MVVM_With_Volly: https://github.com/KhairuI/MVVM_With_Volly
